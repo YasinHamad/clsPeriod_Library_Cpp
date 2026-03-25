@@ -9,11 +9,11 @@ Feel free to check my notes/projects about this course [Course 10](https://githu
   
 # Table of Content  
   
-- [Brief Description](# Brief Description)  
-- [Purpose](# Purpose)  
-- [Constructors](# Constructors)  
-- [Getters, Setters, and Properties](# Getters, Setters, and Properties)  
-- [Functionalities](# Functionalities)  
+- [Brief Description](#Brief-Description)  
+- [Purpose](#Purpose)  
+- [Constructors](#Constructors)  
+- [Getters, Setters, and Properties](#Getters-Setters-and-Properties)  
+- [Functionalities](#Functionalities)  
   
 # Constructors  
 How to create an object form this class?  
